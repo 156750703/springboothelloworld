@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: helloworld
+server:
+  port: 8100
